@@ -45,7 +45,7 @@ This project is a simple calculator application built using React, designed to p
 - Clear Calculation: Use the "C" button to clear the current input and start a new calculation.
 - Responsive Design: The calculator adjusts its layout based on screen size, ensuring usability on various devices.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 2024-07-09 184928](https://github.com/Dnyaneshwariwagh/Calculator/assets/171946157/eb7a8a4b-bc54-41cd-aa7d-13d29c6f0584)
 
