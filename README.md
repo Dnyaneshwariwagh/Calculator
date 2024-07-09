@@ -20,18 +20,23 @@ This project is a simple calculator application built using React, designed to p
 ## Getting Started
 
 1. Clone the repository:
+   
 git clone https://github.com/Dnyaneshwariwagh/Calculator.git
 
 2. Navigate into the project directory:
+   
 cd calculator
 
 3. Install dependencies:
+   
 npm install
 
 4. Start the development server:
+   
 npm start
 
 5. Open your browser and visit:
+   
 http://localhost:3000
 
 ## Usage
@@ -46,9 +51,5 @@ http://localhost:3000
 
 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgements
 
-- React Community
-- FontAwesome (for icons used in UI)
