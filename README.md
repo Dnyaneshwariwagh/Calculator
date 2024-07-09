@@ -47,7 +47,6 @@ This project is a simple calculator application built using React, designed to p
 
 ## Screenshots
 
-![Screenshot 2024-07-09 183756](https://github.com/Dnyaneshwariwagh/Calculator/assets/171946157/fec31c6a-b03e-4b25-8bba-867bae3c5fcb)
 
 
 
